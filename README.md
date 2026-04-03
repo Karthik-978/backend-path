@@ -12,4 +12,5 @@ This repository contains my daily backend learning progress.
 To become a Backend Developer and get an internship.
 
 ## Progress:
-Day 1: Basic JS setup
+Day 1: Basic JS setup,learned how to print,also about var variable and tried with different datatypes
+
