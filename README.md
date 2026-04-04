@@ -13,4 +13,4 @@ To become a Backend Developer and get an internship.
 
 ## Progress:
 Day 1: Basic JS setup,learned how to print,also about var variable and tried with different datatypes
-
+Day-2:learned const,let and operators in js and performed some operations using different operators
